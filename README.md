@@ -1,2 +1,2 @@
 # hello-world
-practice version control
+practice git hub
